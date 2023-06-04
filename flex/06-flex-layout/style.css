@@ -39,7 +39,8 @@ input {
 a {
   text-decoration: none;
   text-emphasis: none;
-  color: rgb(44, 44, 44);
+  color: #666;
+  font-weight: 600;
 }
 
 ul {
